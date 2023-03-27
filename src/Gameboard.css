@@ -1,0 +1,8 @@
+.Gameboard {
+    margin-top: 200px;
+}
+
+.Gameboard-score {
+    color: white;
+    font-size: 2.5rem;
+}
