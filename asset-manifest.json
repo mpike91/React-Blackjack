@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Blackjack/static/css/main.06336802.css",
+    "main.js": "/React-Blackjack/static/js/main.8447c75b.js",
+    "static/js/787.d49c73b8.chunk.js": "/React-Blackjack/static/js/787.d49c73b8.chunk.js",
+    "index.html": "/React-Blackjack/index.html",
+    "main.06336802.css.map": "/React-Blackjack/static/css/main.06336802.css.map",
+    "main.8447c75b.js.map": "/React-Blackjack/static/js/main.8447c75b.js.map",
+    "787.d49c73b8.chunk.js.map": "/React-Blackjack/static/js/787.d49c73b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06336802.css",
+    "static/js/main.8447c75b.js"
+  ]
+}
